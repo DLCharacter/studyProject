@@ -1,0 +1,1 @@
+study project that connects to postgreSQL database using Hibernate
